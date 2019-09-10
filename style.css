@@ -1,12 +1,11 @@
 #site{
     background-color: #eaeaee;
-    width: 1723px;
+    width: 1900px;
     height: 2510px;
 }
 #line1{
-    
     background-color: black;
-    width: 1723px;
+    width: 1900px;
     height: 35px;
     position: relative;
     padding-top: 10px;
@@ -18,7 +17,7 @@
     color: white;
     position: absolute;
     margin-top: -6px;
-    margin-left: 470px;
+    margin-left: 510px;
 }
 #case11{
     transition: 1s;
@@ -28,7 +27,7 @@
     position: absolute;
     border-radius: 8px;
     padding-top: 5px;
-    margin-left: 730px;
+    margin-left: 760px;
 }
 #case111{
     transition: 1s;
@@ -44,7 +43,7 @@
     border-radius: 8px;
     background-color: #09bf67;
     margin-top: -1px;
-    margin-left: 1250px;
+    margin-left: 1260px;
 }
 @media all and (min-width:1080px) and (max-width:1480px){
     #case1{
@@ -91,10 +90,10 @@
                 }
 }
 
-@media all and (min-width:500px) and (max-width:649px){
+@media all and (min-width:0px) and (max-width:649px){
     #case1{
         transition: 1s;
-     margin-left: 205px;
+     margin-left: 145px;
                 }
      #case11{
         transition: 1s;
@@ -106,24 +105,11 @@
                 }
 }
 
-@media all and (min-width:0px) and (max-width:499px){
-    #case1{
-        transition: 1s;
-     margin-left: 105px;
-                }
-     #case11{
-        transition: 1s;
-        display: none;
-                            }
-    #case111{
-        transition: 1s;
-        display: none;
-                }
-}
 
 #line2{
     position: relative;
     padding-top: 10px;
+    padding-left: 50px;
 }
 #case2{
     position: absolute;
@@ -333,7 +319,7 @@ margin-top: 18px;
         margin-left: 669px;
                 }
     #case222222{
-        margin-left: 785px;
+        margin-left: 775px;
                             }
     #case2222222{
         margin-left: 875px;
@@ -369,7 +355,7 @@ margin-top: 18px;
         margin-left: 875px;
                             }
     #case22222222:hover{
-        margin-left: 1065px;
+        margin-left: 1055px;
                             }
     #case222222222:hover{
         margin-left: 1105px;
@@ -442,35 +428,35 @@ margin-top: 18px;
                 }
      #case22{
          margin-top: 30px;
-        margin-left: 205px;
+        margin-left: 105px;
                             }
     #case222{
         margin-top: 29px;
-        margin-left: 275px;
+        margin-left: 175px;
                 }
     #case2222{
         margin-top: 32px;
-        margin-left: 405px;
+        margin-left: 305px;
                             }
     #case22222{
         margin-top: 33px;
-        margin-left: 495px;
+        margin-left: 395px;
                 }
     #case222222{
         margin-top: 5px;
-        margin-left: 255px;
+        margin-left: 155px;
                             }
     #case2222222{
         margin-top: 5px;
-        margin-left: 349px;
+        margin-left: 249px;
                             }
     #case22222222{
         margin-top: 5px;
-        margin-left: 469px;
+        margin-left: 369px;
                             }
     #case222222222{
         margin-top: 5px;
-        margin-left: 509px;
+        margin-left: 409px;
                             }
 }
 
@@ -517,36 +503,36 @@ margin-top: 18px;
         display: none;
                 }
         #case22{
-            margin-left: 135px;
+            margin-left: 85px;
             margin-top: 4px;
                 }
         #case222{
             margin-top: 4px;
-            margin-left: 215px;
+            margin-left: 165px;
                 }
         #case2222{
             margin-top: 28px;
-            margin-left: 120px;
+            margin-left: 70px;
                 }
         #case22222{
         margin-top: 30px;
-        margin-left: 235px;
+        margin-left: 185px;
                     }
         #case222222{
         margin-top: 50px;
-        margin-left: 125px;
+        margin-left: 75px;
                     }
         #case2222222{
             margin-top: 50px;
-            margin-left: 220px;
+            margin-left: 170px;
                     }
         #case22222222{
              margin-top: 4px;
-            margin-left: 189px;
+            margin-left: 139px;
                     }
         #case222222222{
             margin-top: 30px;
-            margin-left: 205px;
+            margin-left: 155px;
                         }
 }
 
@@ -555,113 +541,39 @@ margin-top: 18px;
         display: none;
                 }
         #case22:hover{
-            margin-left: 135px;
+        margin-left: 85px;
+                    margin-top: 4px;
+                    }
+            #case222:hover{
             margin-top: 4px;
-                }
-        #case222:hover{
-            margin-top: 4px;
-            margin-left: 215px;
-                }
-        #case2222:hover{
-            margin-top: 28px;
-            margin-left: 120px;
-                }
-        #case22222:hover{
-        margin-top: 30px;
-        margin-left: 235px;
-                    }
-        #case222222:hover{
-        margin-top: 50px;
-        margin-left: 125px;
-                    }
-        #case2222222:hover{
-            margin-top: 50px;
-            margin-left: 220px;
-                    }
-        #case22222222:hover{
-             margin-top: 4px;
-            margin-left: 189px;
-                    }
-        #case222222222:hover{
-            margin-top: 30px;
-            margin-left: 205px;
+            margin-left: 165px;
                         }
+            #case2222:hover{
+            margin-top: 28px;
+            margin-left: 70px;
+                        }
+           #case22222:hover{
+            margin-top: 30px;
+            margin-left: 185px;
+                            }
+            #case222222:hover{
+            margin-top: 50px;
+            margin-left: 75px;
+                            }
+            #case2222222:hover{
+            margin-top: 50px;
+            margin-left: 170px;
+                            }
+            #case22222222:hover{
+             margin-top: 4px;
+            margin-left: 139px;
+                            }
+            #case222222222:hover{
+            margin-top: 30px;
+            margin-left: 155px;
+                                }
 }
 
-@media all and (min-width:295px) and (max-width:494px){
-    #case2{
-        display: none;
-                }
-     #case22{
-        margin-left: 135px;
-        margin-top: 4px;
-                            }
-    #case222{
-        margin-top: 4px;
-        margin-left: 215px;
-                }
-    #case2222{
-        margin-top: 28px;
-        margin-left: 120px;
-                            }
-    #case22222{
-        margin-top: 30px;
-        margin-left: 235px;
-                }
-    #case222222{
-        margin-top: 50px;
-        margin-left: 125px;
-                            }
-    #case2222222{
-        margin-top: 50px;
-        margin-left: 220px;
-                            }
-    #case22222222{
-        margin-top: 4px;
-        margin-left: 189px;
-                            }
-    #case222222222{
-        margin-top: 30px;
-        margin-left: 205px;
-                            }
-}
- @media all and (min-width:295px) and (max-width:494px){
-    #case2{
-        display: none;
-                }
-     #case22:hover{
-        margin-left: 135px;
-        margin-top: 4px;
-                            }
-    #case222:hover{
-        margin-top: 4px;
-        margin-left: 215px;
-                }
-    #case2222:hover{
-        margin-top: 28px;
-        margin-left: 120px;
-                            }
-    #case22222:hover{
-        margin-top: 30px;
-        margin-left: 235px;
-                }
-    #case222222:hover{
-        margin-top: 50px;
-        margin-left: 125px;
-                            }
-    #case2222222:hover{
-        margin-top: 50px;
-        margin-left: 220px;
-                            }
-    #case22222222:hover{
-        margin-top: 4px;
-        margin-left: 189px;
-                            }
-    #case222222222:hover{
-        margin-top: 30px;
-        margin-left: 205px;
-                            }
-}
  
 
 
@@ -1179,7 +1091,7 @@ height: 2150px;
 
 #side-bera{
     transition: 1s;
-    margin-left: 1120px;
+    margin-left: 1170px;
     width: 372px;
     height: 2150;
     background-color: white;
@@ -1491,28 +1403,28 @@ height: 2150px;
     background-size: 100% 100%;
 }
 
-@media all and (min-width:1250px) and (max-width:1480px){
+@media all and (min-width:1350px) and (max-width:1530px){
     #content{
         margin-left: 155px;
         transition: 1s;
                 }
      #side-bera{
-        margin-left: 885px;
+        margin-left: 985px;
         transition: 1s;
                             }
 }
- @media all and (min-width:1101px) and (max-width:1249px){
+ @media all and (min-width:1201px) and (max-width:1349px){
     #content{
         margin-left: 2px;
         transition: 1s;
                 }
     #side-bera{
-        margin-left: 705px;
+        margin-left: 805px;
         transition: 1s;
                 }
 } 
 
-@media all and (min-width:991px) and (max-width:1101px){
+@media all and (min-width:1091px) and (max-width:1200px){
     #content{
         margin-left: 5px;
         transition: 1s;
@@ -1520,7 +1432,7 @@ height: 2150px;
      #side-bera{
         width: 272px;
         height: 2150;
-        margin-left: 705px;
+        margin-left: 805px;
         transition: 1s;
                 }
         #img6{
@@ -1585,7 +1497,7 @@ height: 2150px;
                         }
 }
 
-@media all and (min-width:440px) and (max-width:990px){
+@media all and (min-width:440px) and (max-width:1090px){
     #content{
         margin-left: 10px;
         transition: 1s;
